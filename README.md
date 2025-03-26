@@ -13,6 +13,9 @@ Understand sales contributions by payment methods.
 
 Offer actionable insights to improve sales strategies.
 
+## Dashboard
+![mobile sales dashboard](https://github.com/InsightMinerSagar/Mobile_Sales_Dashboard/blob/main/Mobile%20Sales%20Dashboard%20pictures.png)
+
 
 ## Charts & Visuals Used:
 
