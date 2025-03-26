@@ -16,10 +16,10 @@ Offer actionable insights to improve sales strategies.
 
 ## Charts & Visuals Used:
 
-# KPI Cards:
+### KPI Cards:
 Display Total Sales, Total Units Sold, Average Price per Unit, and Total Transactions.
 
-# Bar Charts:
+### Bar Charts:
 
 Sum of Mobile Sales by City (Sales volume comparison across cities).
 
@@ -28,7 +28,7 @@ Total Sales by City (Revenue contribution of each city).
 Top 3 Mobile Models by Sales (Comparison of best-selling models).
 
 
-# Pie Chart:
+### Pie Chart:
 
 Sales Distribution by Payment Method (UPI, Debit Card, Credit Card, Cash).
 
